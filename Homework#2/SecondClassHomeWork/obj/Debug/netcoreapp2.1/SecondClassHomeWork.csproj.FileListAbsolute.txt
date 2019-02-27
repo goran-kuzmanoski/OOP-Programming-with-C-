@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C#Basic\SecondClassHomeWork\SecondClassHomeWork\obj\Debug\netcoreapp2.1\SecondClassHomeWork.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#Basic\SecondClassHomeWork\SecondClassHomeWork\obj\Debug\netcoreapp2.1\SecondClassHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#Basic\SecondClassHomeWork\SecondClassHomeWork\obj\Debug\netcoreapp2.1\SecondClassHomeWork.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#Basic\SecondClassHomeWork\SecondClassHomeWork\obj\Debug\netcoreapp2.1\SecondClassHomeWork.AssemblyInfo.cs
+C:\Users\User\Desktop\C#Basic\SecondClassHomeWork\SecondClassHomeWork\bin\Debug\netcoreapp2.1\SecondClassHomeWork.deps.json
+C:\Users\User\Desktop\C#Basic\SecondClassHomeWork\SecondClassHomeWork\bin\Debug\netcoreapp2.1\SecondClassHomeWork.runtimeconfig.json
+C:\Users\User\Desktop\C#Basic\SecondClassHomeWork\SecondClassHomeWork\bin\Debug\netcoreapp2.1\SecondClassHomeWork.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#Basic\SecondClassHomeWork\SecondClassHomeWork\bin\Debug\netcoreapp2.1\SecondClassHomeWork.dll
+C:\Users\User\Desktop\C#Basic\SecondClassHomeWork\SecondClassHomeWork\bin\Debug\netcoreapp2.1\SecondClassHomeWork.pdb
+C:\Users\User\Desktop\C#Basic\SecondClassHomeWork\SecondClassHomeWork\obj\Debug\netcoreapp2.1\SecondClassHomeWork.dll
+C:\Users\User\Desktop\C#Basic\SecondClassHomeWork\SecondClassHomeWork\obj\Debug\netcoreapp2.1\SecondClassHomeWork.pdb
