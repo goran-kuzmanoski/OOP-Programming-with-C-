@@ -1,0 +1,6 @@
+C:\Users\Goran\Desktop\OOP-Programming-with-C--master\Class#4\Homework#4\ConsoleApp1\Dates\bin\Debug\Dates.exe.config
+C:\Users\Goran\Desktop\OOP-Programming-with-C--master\Class#4\Homework#4\ConsoleApp1\Dates\bin\Debug\Dates.exe
+C:\Users\Goran\Desktop\OOP-Programming-with-C--master\Class#4\Homework#4\ConsoleApp1\Dates\bin\Debug\Dates.pdb
+C:\Users\Goran\Desktop\OOP-Programming-with-C--master\Class#4\Homework#4\ConsoleApp1\Dates\obj\Debug\Dates.csproj.CoreCompileInputs.cache
+C:\Users\Goran\Desktop\OOP-Programming-with-C--master\Class#4\Homework#4\ConsoleApp1\Dates\obj\Debug\Dates.exe
+C:\Users\Goran\Desktop\OOP-Programming-with-C--master\Class#4\Homework#4\ConsoleApp1\Dates\obj\Debug\Dates.pdb
