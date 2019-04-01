@@ -352,18 +352,16 @@ namespace ConsoleApp1
                             Console.WriteLine(subject.Name);
                         }
                     }
-                    while (true)
+
+                    string chosenSubject = Console.ReadLine();
+                    foreach (var subject in Subjects)
                     {
-                        string chosenSubject = Console.ReadLine();
-                        Subject sub = Subjects.FirstOrDefault(x => x.Name == chosenSubject);
-
-                        if (sub == null)
+                        if (subject.Name == chosenSubject)
                         {
-                            continue;
+                            Subject sub = Subjects.FirstOrDefault(x => x.Name == chosenSubject);
+                            student.Enroll(sub);
+                            Console.WriteLine($"You enroled in {chosenSubject}!");
                         }
-
-                        student.Enroll(sub);
-                        break;
 
                     }
                 }

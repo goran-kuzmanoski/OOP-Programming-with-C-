@@ -19,8 +19,8 @@ namespace ConsoleApp1
             Dictionary<Subject, int> subjects)
             : base(firstname, lastname, username, password, Role.Student)
         {
-            CurrentSubject = currentSubject;
-            Dictionary<Subject, int> Subjects = subjects;
+            this.CurrentSubject = currentSubject;
+            this.Subjects = subjects;
         }
 
         public void Enroll(Subject subject)
