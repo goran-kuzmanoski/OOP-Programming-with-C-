@@ -17,6 +17,18 @@ namespace App.Classes
         public override int Price { get; set; }
         public bool SunRoof { get; set; }
 
+        public BMW(AutoType autoType, string manufacurer, Gas gas, int doors, double consumption, int price, bool sunroof)
+        {
+            this.AutoType = autoType;
+            this.Model = Model.BMW;
+            this.Manufacturer = manufacurer;
+            this.Gas = gas;
+            this.Doors = doors;
+            this.Consumption = consumption;
+            this.Price = price;
+            this.SunRoof = sunroof;
+
+        }
         public override string PrintCharacteristics()
         {
             if (SunRoof == true)

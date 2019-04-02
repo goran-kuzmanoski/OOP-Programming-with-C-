@@ -17,6 +17,18 @@ namespace App.Classes
         public string Producer { get; set; }
         public override int Price { get; set; }
 
+        public Opel(AutoType autoType, string manufacurer, Gas gas, int doors, double consumption, int price)
+        {
+            this.AutoType = autoType;
+            this.Model = Model.Opel;
+            this.Manufacturer = manufacurer;
+            this.Gas = gas;
+            this.Doors = doors;
+            this.Consumption = consumption;
+            this.Price = price;
+
+        }
+
         public override string PrintCharacteristics()
         {
             return (base.PrintCharacteristics() + this.Producer);

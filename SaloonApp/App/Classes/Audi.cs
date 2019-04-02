@@ -37,7 +37,7 @@ namespace App.Classes
 
         public override string PrintCharacteristics()
         {
-            return (base.PrintCharacteristics() + PrintColor());
+            return (base.PrintCharacteristics() + ", Color:"+ PrintColor());
         }
 
 

@@ -16,15 +16,36 @@ namespace App.Classes
             this.Autos = autos;
 
         }
-        public void Buy(int money)
+        public void Buy(int min,int max)
         {
-            Console.WriteLine($"With this {money} money you can buy:");
+            Console.WriteLine($"Withhin this range {min} - {max}  you can buy:");
             foreach (Auto Auto in Autos)
             {
-                if (Auto.Price < money)
+                if (Auto.Model == Model.Audi)
                 {
-                    Console.Write(Auto.Model);
+                    Audi auto = (Audi)Auto;
+                    if (auto.Price <= max && auto.Price >= min)
+                    {
+                        Console.Write(auto.PrintCharacteristics()+"\n");
+                    }
                 }
+                if (Auto.Model == Model.BMW)
+                {
+                    BMW auto = (BMW)Auto;
+                    if (auto.Price <= max && auto.Price >= min)
+                    {
+                        Console.Write(auto.PrintCharacteristics() + "\n");
+                    }
+                }
+                if (Auto.Model == Model.Opel)
+                {
+                    Opel auto = (Opel)Auto;
+                    if (auto.Price <= max && auto.Price >= min)
+                    {
+                        Console.Write(auto.PrintCharacteristics() + "\n");
+                    }
+                }
+
             }
         }
     }

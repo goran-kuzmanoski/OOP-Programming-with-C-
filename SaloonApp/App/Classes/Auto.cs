@@ -15,18 +15,10 @@ namespace App.Classes
         public abstract int Doors { get; set; }
         public abstract double Consumption { get; set; }
         public abstract int Price { get; set; }
-        //public Auto(AutoType autoType, Model model, string manufacturer, Gas gas, int doors, double consumption)
-        //{
-        //    this.AutoType = autoType;
-        //    this.Model = model;
-        //    this.Manufacturer = manufacturer;
-        //    this.Gas = gas;
-        //    this.Doors = doors;
-        //    this.Consumption = consumption;
-        //}
+
         public virtual string PrintCharacteristics()
         {
-            return ($"Auto type={this.AutoType} ,Model:{this.Model} Manufacturer:{this.Manufacturer}, gas:{this.Gas}");
+            return ($"Auto type={this.AutoType} ,Model:{this.Model} Manufacturer:{this.Manufacturer}, Gas:{this.Gas} , Price: {"$"+this.Price}");
         }
     }
 }
