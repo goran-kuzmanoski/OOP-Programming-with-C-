@@ -1,0 +1,7 @@
+C:\Users\Goran.Kuzmanoski\Desktop\sedc7-06-csharpadvanced-master\g1\Class 7\Linq Exercise\LinqExercise\obj\Debug\LinqExercise.csprojAssemblyReference.cache
+C:\Users\Goran.Kuzmanoski\Desktop\sedc7-06-csharpadvanced-master\g1\Class 7\Linq Exercise\LinqExercise\obj\Debug\LinqExercise.csproj.CoreCompileInputs.cache
+C:\Users\Goran.Kuzmanoski\Desktop\sedc7-06-csharpadvanced-master\g1\Class 7\Linq Exercise\LinqExercise\bin\Debug\LinqExercise.exe.config
+C:\Users\Goran.Kuzmanoski\Desktop\sedc7-06-csharpadvanced-master\g1\Class 7\Linq Exercise\LinqExercise\bin\Debug\LinqExercise.exe
+C:\Users\Goran.Kuzmanoski\Desktop\sedc7-06-csharpadvanced-master\g1\Class 7\Linq Exercise\LinqExercise\bin\Debug\LinqExercise.pdb
+C:\Users\Goran.Kuzmanoski\Desktop\sedc7-06-csharpadvanced-master\g1\Class 7\Linq Exercise\LinqExercise\obj\Debug\LinqExercise.exe
+C:\Users\Goran.Kuzmanoski\Desktop\sedc7-06-csharpadvanced-master\g1\Class 7\Linq Exercise\LinqExercise\obj\Debug\LinqExercise.pdb
